@@ -1,3 +1,11 @@
+import os
+
+
+def gen_matrix():
+    global Matrix
+    Matrix = [[0 for x in range(w)] for y in range(h)]
+
+
 def custom_size():
     global h, w
     os.system('clear')

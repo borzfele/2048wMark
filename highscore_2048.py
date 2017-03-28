@@ -1,1 +1,3 @@
 # highscore
+def highscore():
+    pass
