@@ -7,8 +7,6 @@
 - docstrings
 '''
 ##############################################################################
-import curses
-import time
 
 # 2048 another program menus
 from menu_2048 import *
